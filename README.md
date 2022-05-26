@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/logo.png" alt="logo"></p>
 
-Calculates hiddenpower for the league17.ru in terminal
+Calculates hiddenpower for the league17.ru in the terminal
 
 # Compiling
 
